@@ -18,3 +18,7 @@ DeCo Pay成员拥有数年互联网金融、支付的行业经验，对区块链
 解决方案：
 
 DeCo Pay自创支付合约，采用了Chia独特的Smartcoin中“转账收回”特性，通过添加第三个密钥，收回或加速交易底层token的转移，降低发送交易的风险，实现托管业务模式，双方将支付规则与自定义合约写入支付凭证（Smartcoin XCH）内，第三密钥可以对其进行审核并提供签名，若有效期内无签名或拒绝签名，则 XCH就自动退回发送方账户，非常适应于用在全球支付场景中。
+
+![The Payment Protocol](https://user-images.githubusercontent.com/90610389/133190729-51ea3a02-bedd-47bd-a583-2c56dfc4d199.png)
+
+![The Flow chart of the Payment Protocol ](https://user-images.githubusercontent.com/90610389/133190819-d55fdf0e-62b7-4910-ae2f-2f3eb1e83362.png)
